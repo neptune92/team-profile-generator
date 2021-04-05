@@ -1,0 +1,1 @@
+const employee = manager("../lib/manager");
