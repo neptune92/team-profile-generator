@@ -1,1 +1,1 @@
-const employee = manager("../lib/manager");
+const manager = require("../lib/manager");
